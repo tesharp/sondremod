@@ -1,0 +1,9 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "sondremod:compactor" },
+        "facing=south": { "model": "sondremod:compactor", "y": 180 },
+        "facing=west":  { "model": "sondremod:compactor", "y": 270 },
+        "facing=east":  { "model": "sondremod:compactor", "y": 90 }
+    }
+}
